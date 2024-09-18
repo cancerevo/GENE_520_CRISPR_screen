@@ -6,7 +6,7 @@ A README generally begins with a brief description of the software's purpose.
 ## Installation
 
 Often the first thing a user wants to know is 'How do I install this package?' 
-Traditionally, this was a involved task. Nowadays, you should be able to install
+Traditionally, this was an involved task. Nowadays, you should be able to install
 high-level code (i.e. code that is not close-to-the-hardware) via a package 
 manager. For python the installation might look like:
 ```bash
