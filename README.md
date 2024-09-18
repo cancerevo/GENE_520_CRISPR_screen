@@ -1,5 +1,5 @@
 # GENE_520_CRISPR_screen
-An example repo for Gene 520
+*An example repo for Gene 520*
 
 A README generally begins with a brief description of the software's purpose. 
 
@@ -17,6 +17,8 @@ For R you might use `Bioconductor`.
 ## Usage
 
 Next you may want to provide brief description of how your package is used. 
-Greater Details can be provided in the *Tutorial* or *API*. 
+Greater Details can be provided in the **Tutorial** or **API**. 
 
 ## Acknowledgements/Manuscript
+
+CRISPRko screen data is from [this manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10915513/).
