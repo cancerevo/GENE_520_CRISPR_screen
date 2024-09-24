@@ -25,7 +25,7 @@ Severals tasks we might be assigned
 
 1. Report the ~10~ most adaptive gene losses in NNK-induced malignant transformation
 2. Plot a histogram of P-value abundances in the dataset
-3. Compare how adaptation proceeds in 
+3. Which pathways are most importnat for NNK-associated malignant transformation?
 
 
 ## Acknowledgements/Manuscript
