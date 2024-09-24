@@ -19,6 +19,15 @@ For R you might use `Bioconductor`.
 Next you may want to provide brief description of how your package is used. 
 Greater Details can be provided in the **Tutorial** or **API**. 
 
+## Workshop 3
+
+Severals tasks we might be assigned 
+
+1. Report the ~10~ most adaptive gene losses in NNK-induced malignant transformation
+2. Plot a histogram of P-value abundances in the dataset
+3. Compare how adaptation proceeds in 
+
+
 ## Acknowledgements/Manuscript
 
 CRISPRko screen data is from [this manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10915513/).
